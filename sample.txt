@@ -1,4 +1,7 @@
 sample
+<<<<<<< HEAD
 aaaaaaaaaa
 
 あsdふぁsdf
+=======
+>>>>>>> 46a94ead668a62dd09af9586a5b3d35f904d5af8
